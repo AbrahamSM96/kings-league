@@ -1,0 +1,3 @@
+name = "kings-league-api-abrahamsm"
+main = "api/index.js"
+compatibility_date = "2023-01-04"
