@@ -1,81 +1,5 @@
 [
-  {
-    "victories": 1,
-    "loses": 0,
-    "scoredGoals": 5,
-    "concededGoals": 0,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg",
-      "url": "",
-      "presidentId": "adri-contreras",
-      "channel": "https://twitch.tv/1k",
-      "coach": "???",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    }
-  },
-  {
-    "victories": 1,
-    "loses": 0,
-    "scoredGoals": 5,
-    "concededGoals": 1,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://kings-league-api.midudev.workers.dev/static/logos/ultimate-mostoles.svg",
-      "url": "",
-      "presidentId": "djmariio",
-      "channel": "https://youtube.com/DjMaRiiO",
-      "coach": "???",
-      "socialNetworks": [
-        "https://m.youtube.com/user/DjMaRiiO/videos"
-      ],
-      "players": []
-    }
-  },
-  {
-    "victories": 1,
-    "loses": 0,
-    "scoredGoals": 5,
-    "concededGoals": 3,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.midudev.workers.dev/static/logos/los-troncos.svg",
-      "url": "",
-      "presidentId": "perxitaa",
-      "channel": "https://twitch.tv/perxitaa",
-      "coach": "???",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ],
-      "players": []
-    }
-  },
-  {
-    "victories": 1,
-    "loses": 0,
-    "scoredGoals": 4,
-    "concededGoals": 2,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
+    {
       "id": "1k",
       "name": "1K FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/1k.svg",
@@ -90,16 +14,53 @@
         "https://www.tiktok.com/@1kfutbolclub"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 1,
-    "loses": 0,
-    "scoredGoals": 4,
-    "concededGoals": 2,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
+    },
+    {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg",
+      "url": "",
+      "presidentId": "adri-contreras",
+      "channel": "https://twitch.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/ultimate-mostoles.svg",
+      "url": "",
+      "presidentId": "djmariio",
+      "channel": "https://youtube.com/DjMaRiiO",
+      "coach": "???",
+      "socialNetworks": [
+        "https://m.youtube.com/user/DjMaRiiO/videos"
+      ],
+      "players": []
+    },
+    {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.midudev.workers.dev/static/logos/los-troncos.svg",
+      "url": "",
+      "presidentId": "perxitaa",
+      "channel": "https://twitch.tv/perxitaa",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ],
+      "players": []
+    },
+    {
       "id": "saiyans-fc",
       "name": "Saiyans FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg",
@@ -111,16 +72,8 @@
         "https://www.twitch.tv/thegrefg"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 1,
-    "loses": 0,
-    "scoredGoals": 2,
-    "concededGoals": 1,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "kunisports",
       "name": "Kunisports",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/kunisports.svg",
@@ -132,16 +85,8 @@
         "https://www.twitch.tv/slakun10"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 0,
-    "loses": 1,
-    "scoredGoals": 1,
-    "concededGoals": 2,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "jijantes-fc",
       "name": "Jijantes FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/jijantes.svg",
@@ -156,16 +101,8 @@
         "https://www.tiktok.com/@jijantesfutbolclub"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 0,
-    "loses": 1,
-    "scoredGoals": 2,
-    "concededGoals": 4,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "porcinos-fc",
       "name": "Porcinos FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg",
@@ -178,16 +115,8 @@
         "https://twitter.com/FCPorcinos"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 0,
-    "loses": 1,
-    "scoredGoals": 2,
-    "concededGoals": 4,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "rayo-barcelona",
       "name": "Rayo de Barcelona",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/rayo-barcelona.svg",
@@ -202,16 +131,8 @@
         "https://www.tiktok.com/@rayodebarcelona"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 0,
-    "loses": 1,
-    "scoredGoals": 2,
-    "concededGoals": 5,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/xbuyer.svg",
@@ -223,16 +144,8 @@
         "https://www.youtube.com/xbuyer"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 0,
-    "loses": 1,
-    "scoredGoals": 1,
-    "concededGoals": 5,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg",
@@ -244,16 +157,8 @@
         "https://www.twitch.tv/juansguarnizo"
       ],
       "players": []
-    }
-  },
-  {
-    "victories": 0,
-    "loses": 1,
-    "scoredGoals": 0,
-    "concededGoals": 5,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
+    },
+    {
       "id": "pio-fc",
       "name": "PIO FC",
       "image": "https://kings-league-api.midudev.workers.dev/static/logos/pio.svg",
@@ -267,5 +172,4 @@
       ],
       "players": []
     }
-  }
-]
+  ]
