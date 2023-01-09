@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 import { Hono } from 'hono'
 import { serveStatic } from 'hono/serve-static.module'
 import leaderboard from '../db/leaderboard.json'
@@ -30,12 +31,15 @@ app.get('/presidents', (ctx) => {
 })
 app.get('/presidents/:id', (ctx) => {
   const id = ctx.req.param('id')
-  const foundPresident = presidents.find(president => president.id === id)
+  const foundPresident = presidents.find((president) => president.id === id)
   return foundPresident
     ? ctx.json(foundPresident)
-    : ctx.json({
-      messsage: 'President not found'
-    }, 404)
+    : ctx.json(
+        {
+          messsage: 'President not found'
+        },
+        404
+      )
 })
 app.get('/teams', (ctx) => {
   return ctx.json(teams)
