@@ -1,6 +1,6 @@
 [
   {
-    "victories": 2,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 8,
     "concededGoals": 3,
@@ -21,12 +21,12 @@
         "id": "djmariio",
         "name": "DjMaRiiO",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/djmariio.png",
-        "teamId": 0
+        "teamId": "ultimate-mostoles"
       }
     }
   },
   {
-    "victories": 2,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 7,
     "concededGoals": 4,
@@ -50,12 +50,12 @@
         "id": "iker-casillas",
         "name": "Iker Casillas",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/iker-casillas.png",
-        "teamId": 0
+        "teamId": "1k"
       }
     }
   },
   {
-    "victories": 2,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 5,
     "concededGoals": 3,
@@ -76,12 +76,12 @@
         "id": "thegrefg",
         "name": "TheGrefg",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/thegrefg.png",
-        "teamId": 0
+        "teamId": "saiyans-fc"
       }
     }
   },
   {
-    "victories": 2,
+    "wins": 2,
     "loses": 0,
     "scoredGoals": 3,
     "concededGoals": 1,
@@ -102,12 +102,12 @@
         "id": "kun-aguero",
         "name": "Kun Agüero",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/kun-aguero.png",
-        "teamId": 0
+        "teamId": "kunisports"
       }
     }
   },
   {
-    "victories": 1,
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 7,
     "concededGoals": 3,
@@ -131,12 +131,12 @@
         "id": "adri-contreras",
         "name": "Adri Contreras",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/adri-contreras.png",
-        "teamId": 0
+        "teamId": "el-barrio"
       }
     }
   },
   {
-    "victories": 1,
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 8,
     "concededGoals": 8,
@@ -160,12 +160,12 @@
         "id": "perxitaa",
         "name": "Perxitaa",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/perxitaa.png",
-        "teamId": 0
+        "teamId": "los-troncos-fc"
       }
     }
   },
   {
-    "victories": 1,
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 7,
     "concededGoals": 7,
@@ -187,12 +187,12 @@
         "id": "ibai-llanos",
         "name": "Ibai Llanos",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/ibai-llanos.png",
-        "teamId": 0
+        "teamId": "porcinos-fc"
       }
     }
   },
   {
-    "victories": 1,
+    "wins": 1,
     "loses": 1,
     "scoredGoals": 7,
     "concededGoals": 7,
@@ -216,12 +216,12 @@
         "id": "spursito",
         "name": "Spursito",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/spursito.png",
-        "teamId": 0
+        "teamId": "rayo-barcelona"
       }
     }
   },
   {
-    "victories": 0,
+    "wins": 0,
     "loses": 2,
     "scoredGoals": 4,
     "concededGoals": 7,
@@ -245,12 +245,12 @@
         "id": "gerard-romero",
         "name": "Gerard Romero",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/gerard-romero.png",
-        "teamId": 0
+        "teamId": "jijantes-fc"
       }
     }
   },
   {
-    "victories": 0,
+    "wins": 0,
     "loses": 2,
     "scoredGoals": 3,
     "concededGoals": 6,
@@ -271,12 +271,12 @@
         "id": "hnos-buyer",
         "name": "Hnos. Buyer",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/hnos-buyer.png",
-        "teamId": 0
+        "teamId": "xbuyer-team"
       }
     }
   },
   {
-    "victories": 0,
+    "wins": 0,
     "loses": 2,
     "scoredGoals": 3,
     "concededGoals": 8,
@@ -297,12 +297,12 @@
         "id": "juan-guarnizo",
         "name": "Juan Guarnizo",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/juan-guarnizo.png",
-        "teamId": 0
+        "teamId": "aniquiladores-fc"
       }
     }
   },
   {
-    "victories": 0,
+    "wins": 0,
     "loses": 2,
     "scoredGoals": 1,
     "concededGoals": 6,
@@ -324,7 +324,7 @@
         "id": "rivers",
         "name": "Rivers",
         "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/rivers.png",
-        "teamId": 0
+        "teamId": "pio-fc"
       }
     }
   }
