@@ -4,13 +4,26 @@ import { getLeaderBoard } from './leaderboard.js'
 import { getMvpList } from './mvp.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
+import { getCoaches } from './coaches.js'
+import { getTopScoresList } from './top_scorer.js'
 
 export const SCRAPINGS = {
   leaderboard: {
     url: 'https://kingsleague.pro/estadisticas/clasificacion/',
     scraper: getLeaderBoard
   },
-  mvp: { url: 'https://kingsleague.pro/estadisticas/mvp/', scraper: getMvpList }
+  mvp: {
+    url: 'https://kingsleague.pro/estadisticas/mvp/',
+    scraper: getMvpList
+  },
+  coachs: {
+    url: 'https://es.besoccer.com/competicion/info/kings-league/2023',
+    scraper: getCoaches
+  },
+  top_scorers: {
+    url: 'https://kingsleague.pro/estadisticas/goles/',
+    scraper: getTopScoresList
+  }
 }
 
 export const cleanText = (text) =>
