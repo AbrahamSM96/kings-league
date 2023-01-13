@@ -22,7 +22,7 @@ jobs:
           node-version: 18
       - run: npm install
       - run: |
-          node scraping/leaderboard.js
+          npm run scrape
           git config user.name kings-league-bot-abraham
           git add -A
           git commit -m "[bot] update kings league Database"
