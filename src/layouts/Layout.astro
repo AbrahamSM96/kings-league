@@ -1,4 +1,5 @@
 ---
+import Footer from '@components/Footer.astro'
 import Header from '../components/Header.astro'
 
 export interface Props {
@@ -27,6 +28,7 @@ const seoTitle = title
   <body class="min-h-screen bg-orange-50/70">
     <Header />
     <slot />
+    <Footer />
   </body>
 </html>
 
