@@ -9,7 +9,7 @@
     "team": {
       "id": "ultimate-mostoles",
       "name": "Ultimate Móstoles",
-      "image": "https://api.kingsleague.dev/static/logos/ultimate-mostoles.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/ultimate-mostoles.svg",
       "url": "",
       "channel": "https://youtube.com/DjMaRiiO",
       "coach": "???",
@@ -33,7 +33,7 @@
     "team": {
       "id": "1k",
       "name": "1K FC",
-      "image": "https://api.kingsleague.dev/static/logos/1k.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/1k.svg",
       "url": "",
       "channel": "https://www.youtube.com/@IkerCasillas",
       "coach": "???",
@@ -62,7 +62,7 @@
     "team": {
       "id": "saiyans-fc",
       "name": "Saiyans FC",
-      "image": "https://api.kingsleague.dev/static/logos/saiyans-fc.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/saiyans-fc.svg",
       "url": "",
       "channel": "https://twitch.tv/thegrefg",
       "coach": "???",
@@ -86,7 +86,7 @@
     "team": {
       "id": "kunisports",
       "name": "Kunisports",
-      "image": "https://api.kingsleague.dev/static/logos/kunisports.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/kunisports.svg",
       "url": "",
       "channel": "https://twitch.tv/slakun10",
       "coach": "???",
@@ -110,7 +110,7 @@
     "team": {
       "id": "el-barrio",
       "name": "El Barrio",
-      "image": "https://api.kingsleague.dev/static/logos/el-barrio.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/el-barrio.svg",
       "url": "",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
@@ -139,7 +139,7 @@
     "team": {
       "id": "los-troncos-fc",
       "name": "Los Troncos FC",
-      "image": "https://api.kingsleague.dev/static/logos/los-troncos.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/los-troncos.svg",
       "url": "",
       "channel": "https://twitch.tv/perxitaa",
       "coach": "???",
@@ -168,7 +168,7 @@
     "team": {
       "id": "porcinos-fc",
       "name": "Porcinos FC",
-      "image": "https://api.kingsleague.dev/static/logos/porcinos-fc.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/porcinos-fc.svg",
       "url": "",
       "channel": "https://twitch.tv/ibai",
       "coach": "???",
@@ -195,7 +195,7 @@
     "team": {
       "id": "rayo-barcelona",
       "name": "Rayo de Barcelona",
-      "image": "https://api.kingsleague.dev/static/logos/rayo-barcelona.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/rayo-barcelona.svg",
       "url": "",
       "channel": "https://twitch.tv/spursito",
       "coach": "???",
@@ -224,7 +224,7 @@
     "team": {
       "id": "jijantes-fc",
       "name": "Jijantes FC",
-      "image": "https://api.kingsleague.dev/static/logos/jijantes.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/jijantes.svg",
       "url": "",
       "channel": "https://twitch.tv/gerardromero",
       "coach": "???",
@@ -253,7 +253,7 @@
     "team": {
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
-      "image": "https://api.kingsleague.dev/static/logos/xbuyer.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/xbuyer.svg",
       "url": "",
       "channel": "https://www.youtube.com/xbuyer",
       "coach": "???",
@@ -277,7 +277,7 @@
     "team": {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
-      "image": "https://api.kingsleague.dev/static/logos/aniquiladores.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/aniquiladores.svg",
       "url": "",
       "channel": "https://twitch.tv/juansguarnizo",
       "coach": "???",
@@ -301,7 +301,7 @@
     "team": {
       "id": "pio-fc",
       "name": "PIO FC",
-      "image": "https://api.kingsleague.dev/static/logos/pio.svg",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/pio.svg",
       "url": "",
       "channel": "https://twitch.tv/rivers_gg",
       "coach": "???",
