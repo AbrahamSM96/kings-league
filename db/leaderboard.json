@@ -1,208 +1,10 @@
 [
   {
-    "wins": 5,
+    "wins": 6,
     "loses": 1,
-    "scoredGoals": 14,
-    "concededGoals": 7,
-    "yellowCards": 3,
-    "redCards": 1,
-    "team": {
-      "color": "#1932e0",
-      "id": "saiyans-fc",
-      "name": "Saiyans FC",
-      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/saiyans-fc.svg",
-      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/saiyans-fc-inverse.svg",
-      "url": "https://kingsleague.pro/team/saiyans-fc/",
-      "channel": "https://twitch.tv/thegrefg",
-      "socialNetworks": [
-        "https://www.twitch.tv/thegrefg"
-      ],
-      "players": [
-        {
-          "id": "saiyans-fc-16",
-          "dorsalName": "Alfaya Jr.",
-          "fullName": "Victor Alfaya",
-          "role": "jugador 11",
-          "image": "saiyans-fc-alfaya-jr.webp",
-          "stats": {}
-        },
-        {
-          "id": "saiyans-fc-1",
-          "dorsalName": "Briones",
-          "fullName": "Marc Briones",
-          "role": "Portero",
-          "image": "saiyans-fc-briones.webp",
-          "stats": {
-            "reflexes": 82,
-            "saves": 81,
-            "kickoff": 80,
-            "stretch": 84,
-            "score": 82
-          }
-        },
-        {
-          "id": "saiyans-fc-9",
-          "dorsalName": "Gio Ferinu",
-          "fullName": "Giovanni Ferinu",
-          "role": "Delantero",
-          "image": "saiyans-fc-gio-ferinu.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 67,
-            "shooting": 74,
-            "passing": 75,
-            "talent": 85,
-            "defense": 77,
-            "score": 75
-          }
-        },
-        {
-          "id": "saiyans-fc-4",
-          "dorsalName": "Campu",
-          "fullName": "Alex Campuzano",
-          "role": "Defensa",
-          "image": "saiyans-fc-campu.webp",
-          "stats": {
-            "speed": 70,
-            "physique": 53,
-            "shooting": 80,
-            "passing": 78,
-            "talent": 78,
-            "defense": 83,
-            "score": 74
-          }
-        },
-        {
-          "id": "saiyans-fc-7",
-          "dorsalName": "Temo",
-          "fullName": "Teimurazi Korkotashvili",
-          "role": "Medio",
-          "image": "saiyans-fc-temo.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 45,
-            "shooting": 75,
-            "passing": 74,
-            "talent": 73,
-            "defense": 70,
-            "score": 68
-          }
-        },
-        {
-          "id": "saiyans-fc-14",
-          "dorsalName": "C. Valle",
-          "fullName": "Cristian Valle",
-          "role": "Medio",
-          "image": "saiyans-fc-c-valle.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 52,
-            "shooting": 76,
-            "passing": 86,
-            "talent": 78,
-            "defense": 66,
-            "score": 72
-          }
-        },
-        {
-          "id": "saiyans-fc-5",
-          "dorsalName": "V. Torres",
-          "fullName": "Victor Torres",
-          "role": "Defensa",
-          "image": "saiyans-fc-v-torres.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 39,
-            "shooting": 74,
-            "passing": 73,
-            "talent": 69,
-            "defense": 60,
-            "score": 64
-          }
-        },
-        {
-          "id": "saiyans-fc-20",
-          "dorsalName": "Feliu",
-          "fullName": "Feliu Torrus",
-          "role": "Medio",
-          "image": "saiyans-fc-feliu.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 64,
-            "shooting": 83,
-            "passing": 60,
-            "talent": 82,
-            "defense": 84,
-            "score": 74
-          }
-        },
-        {
-          "id": "saiyans-fc-10",
-          "dorsalName": "David Alba",
-          "fullName": "David Alba",
-          "role": "Delantero",
-          "image": "saiyans-fc-david-alba.webp",
-          "stats": {
-            "speed": 75,
-            "physique": 75,
-            "shooting": 80,
-            "passing": 65,
-            "talent": 73,
-            "defense": 64,
-            "score": 72
-          }
-        },
-        {
-          "id": "saiyans-fc-11",
-          "dorsalName": "R. Carbó",
-          "fullName": "Roger Carbó",
-          "role": "Medio",
-          "image": "saiyans-fc-r-carbo.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 49,
-            "shooting": 63,
-            "passing": 67,
-            "talent": 66,
-            "defense": 62,
-            "score": 63
-          }
-        },
-        {
-          "id": "saiyans-fc-22",
-          "dorsalName": "Fajardo",
-          "fullName": "Iván Fajardo",
-          "role": "Portero",
-          "image": "saiyans-fc-fajardo.webp",
-          "stats": {
-            "reflexes": 61,
-            "saves": 60,
-            "kickoff": 74,
-            "stretch": 63,
-            "score": 65
-          }
-        }
-      ],
-      "coach": "Daniel Romo",
-      "shortName": "SAI",
-      "coachInfo": {
-        "name": "Daniel Romo",
-        "image": "daniel-romo.webp"
-      },
-      "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/thegrefg.png",
-        "teamId": "saiyans-fc"
-      }
-    }
-  },
-  {
-    "wins": 5,
-    "loses": 1,
-    "scoredGoals": 22,
-    "concededGoals": 15,
-    "yellowCards": 1,
+    "scoredGoals": 27,
+    "concededGoals": 17,
+    "yellowCards": 10,
     "redCards": 0,
     "team": {
       "color": "#d91f5d",
@@ -397,209 +199,209 @@
     }
   },
   {
-    "wins": 5,
+    "wins": 6,
     "loses": 1,
-    "scoredGoals": 13,
-    "concededGoals": 8,
-    "yellowCards": 2,
+    "scoredGoals": 15,
+    "concededGoals": 7,
+    "yellowCards": 8,
     "redCards": 0,
     "team": {
-      "color": "#101920",
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/kunisports.svg",
-      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/kunisports-inverse.svg",
-      "url": "https://kingsleague.pro/team/kunisports/",
-      "channel": "https://twitch.tv/slakun10",
+      "color": "#1932e0",
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/saiyans-fc.svg",
+      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/saiyans-fc-inverse.svg",
+      "url": "https://kingsleague.pro/team/saiyans-fc/",
+      "channel": "https://twitch.tv/thegrefg",
       "socialNetworks": [
-        "https://www.twitch.tv/slakun10"
+        "https://www.twitch.tv/thegrefg"
       ],
       "players": [
         {
-          "id": "kunisports-23",
-          "dorsalName": "Coro",
-          "fullName": "Ferran Corominas",
+          "id": "saiyans-fc-16",
+          "dorsalName": "Alfaya Jr.",
+          "fullName": "Victor Alfaya",
           "role": "jugador 11",
-          "image": "kunisports-coro.webp",
+          "image": "saiyans-fc-alfaya-jr.webp",
           "stats": {}
         },
         {
-          "id": "kunisports-11",
-          "dorsalName": "Torrentbó",
-          "fullName": "Carlos Torrentbó",
-          "role": "Delantero",
-          "image": "kunisports-torrentb.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 59,
-            "shooting": 73,
-            "passing": 76,
-            "talent": 75,
-            "defense": 72,
-            "score": 71
-          }
-        },
-        {
-          "id": "kunisports-1",
-          "dorsalName": "Víctor",
-          "fullName": "Victor Cócera",
+          "id": "saiyans-fc-1",
+          "dorsalName": "Briones",
+          "fullName": "Marc Briones",
           "role": "Portero",
-          "image": "kunisports-vctor.webp",
+          "image": "saiyans-fc-briones.webp",
           "stats": {
-            "reflexes": 83,
-            "saves": 92,
-            "kickoff": 86,
-            "stretch": 87,
-            "score": 87
+            "reflexes": 82,
+            "saves": 81,
+            "kickoff": 80,
+            "stretch": 84,
+            "score": 82
           }
         },
         {
-          "id": "kunisports-4",
-          "dorsalName": "Guerrero",
-          "fullName": "Marcos Guerrero",
-          "role": "Defensa",
-          "image": "kunisports-guerrero.webp",
+          "id": "saiyans-fc-9",
+          "dorsalName": "Gio Ferinu",
+          "fullName": "Giovanni Ferinu",
+          "role": "Delantero",
+          "image": "saiyans-fc-gio-ferinu.webp",
           "stats": {
             "speed": 71,
-            "physique": 55,
-            "shooting": 82,
-            "passing": 77,
-            "talent": 83,
-            "defense": 83,
+            "physique": 67,
+            "shooting": 74,
+            "passing": 75,
+            "talent": 85,
+            "defense": 77,
             "score": 75
           }
         },
         {
-          "id": "kunisports-8",
-          "dorsalName": "Joan Inés",
-          "fullName": "Joan Inés",
-          "role": "Medio",
-          "image": "kunisports-joan-ins.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 60,
-            "shooting": 78,
-            "passing": 64,
-            "talent": 64,
-            "defense": 63,
-            "score": 67
-          }
-        },
-        {
-          "id": "kunisports-13",
-          "dorsalName": "Rode",
-          "fullName": "Sergio Ródenas",
-          "role": "Portero",
-          "image": "kunisports-rode.webp",
-          "stats": {
-            "reflexes": 81,
-            "saves": 84,
-            "kickoff": 74,
-            "stretch": 76,
-            "score": 79
-          }
-        },
-        {
-          "id": "kunisports-5",
-          "dorsalName": "Ruggeri",
-          "fullName": "Flavio Ruggeri",
+          "id": "saiyans-fc-4",
+          "dorsalName": "Campu",
+          "fullName": "Alex Campuzano",
           "role": "Defensa",
-          "image": "kunisports-ruggeri.webp",
-          "stats": {
-            "speed": 70,
-            "physique": 56,
-            "shooting": 68,
-            "passing": 68,
-            "talent": 81,
-            "defense": 85,
-            "score": 71
-          }
-        },
-        {
-          "id": "kunisports-6",
-          "dorsalName": "Nacho",
-          "fullName": "Nacho Jordà",
-          "role": "Defensa",
-          "image": "kunisports-nacho.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 51,
-            "shooting": 70,
-            "passing": 79,
-            "talent": 64,
-            "defense": 64,
-            "score": 67
-          }
-        },
-        {
-          "id": "kunisports-9",
-          "dorsalName": "Hidalgo",
-          "fullName": "Victor Hidalgo",
-          "role": "Delantero",
-          "image": "kunisports-hidalgo.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 56,
-            "shooting": 71,
-            "passing": 65,
-            "talent": 68,
-            "defense": 74,
-            "score": 68
-          }
-        },
-        {
-          "id": "kunisports-7",
-          "dorsalName": "Lluc",
-          "fullName": "Lluc Riera",
-          "role": "Delantero",
-          "image": "kunisports-lluc.webp",
-          "stats": {
-            "speed": 69,
-            "physique": 57,
-            "shooting": 61,
-            "passing": 67,
-            "talent": 78,
-            "defense": 77,
-            "score": 68
-          }
-        },
-        {
-          "id": "kunisports-3",
-          "dorsalName": "Miki",
-          "fullName": "Miquel Fernández",
-          "role": "Defensa",
-          "image": "kunisports-miki.webp",
+          "image": "saiyans-fc-campu.webp",
           "stats": {
             "speed": 70,
             "physique": 53,
-            "shooting": 86,
-            "passing": 58,
-            "talent": 55,
-            "defense": 69,
+            "shooting": 80,
+            "passing": 78,
+            "talent": 78,
+            "defense": 83,
+            "score": 74
+          }
+        },
+        {
+          "id": "saiyans-fc-7",
+          "dorsalName": "Temo",
+          "fullName": "Teimurazi Korkotashvili",
+          "role": "Medio",
+          "image": "saiyans-fc-temo.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 45,
+            "shooting": 75,
+            "passing": 74,
+            "talent": 73,
+            "defense": 70,
+            "score": 68
+          }
+        },
+        {
+          "id": "saiyans-fc-14",
+          "dorsalName": "C. Valle",
+          "fullName": "Cristian Valle",
+          "role": "Medio",
+          "image": "saiyans-fc-c-valle.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 52,
+            "shooting": 76,
+            "passing": 86,
+            "talent": 78,
+            "defense": 66,
+            "score": 72
+          }
+        },
+        {
+          "id": "saiyans-fc-5",
+          "dorsalName": "V. Torres",
+          "fullName": "Victor Torres",
+          "role": "Defensa",
+          "image": "saiyans-fc-v-torres.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 39,
+            "shooting": 74,
+            "passing": 73,
+            "talent": 69,
+            "defense": 60,
+            "score": 64
+          }
+        },
+        {
+          "id": "saiyans-fc-20",
+          "dorsalName": "Feliu",
+          "fullName": "Feliu Torrus",
+          "role": "Medio",
+          "image": "saiyans-fc-feliu.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 64,
+            "shooting": 83,
+            "passing": 60,
+            "talent": 82,
+            "defense": 84,
+            "score": 74
+          }
+        },
+        {
+          "id": "saiyans-fc-10",
+          "dorsalName": "David Alba",
+          "fullName": "David Alba",
+          "role": "Delantero",
+          "image": "saiyans-fc-david-alba.webp",
+          "stats": {
+            "speed": 75,
+            "physique": 75,
+            "shooting": 80,
+            "passing": 65,
+            "talent": 73,
+            "defense": 64,
+            "score": 72
+          }
+        },
+        {
+          "id": "saiyans-fc-11",
+          "dorsalName": "R. Carbó",
+          "fullName": "Roger Carbó",
+          "role": "Medio",
+          "image": "saiyans-fc-r-carbo.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 49,
+            "shooting": 63,
+            "passing": 67,
+            "talent": 66,
+            "defense": 62,
+            "score": 63
+          }
+        },
+        {
+          "id": "saiyans-fc-22",
+          "dorsalName": "Fajardo",
+          "fullName": "Iván Fajardo",
+          "role": "Portero",
+          "image": "saiyans-fc-fajardo.webp",
+          "stats": {
+            "reflexes": 61,
+            "saves": 60,
+            "kickoff": 74,
+            "stretch": 63,
             "score": 65
           }
         }
       ],
-      "coach": "Martín Posse",
-      "shortName": "KNS",
+      "coach": "Daniel Romo",
+      "shortName": "SAI",
       "coachInfo": {
-        "name": "Martín Posse",
-        "image": "martn-posse.webp"
+        "name": "Daniel Romo",
+        "image": "daniel-romo.webp"
       },
       "president": {
-        "id": "kun-aguero",
-        "name": "Kun Agüero",
-        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/kun-aguero.png",
-        "teamId": "kunisports"
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/thegrefg.png",
+        "teamId": "saiyans-fc"
       }
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 2,
-    "scoredGoals": 18,
-    "concededGoals": 14,
-    "yellowCards": 1,
+    "scoredGoals": 22,
+    "concededGoals": 17,
+    "yellowCards": 5,
     "redCards": 0,
     "team": {
       "color": "#7b7b7b",
@@ -793,11 +595,414 @@
     }
   },
   {
+    "wins": 5,
+    "loses": 2,
+    "scoredGoals": 15,
+    "concededGoals": 14,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "color": "#101920",
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/kunisports.svg",
+      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/kunisports-inverse.svg",
+      "url": "https://kingsleague.pro/team/kunisports/",
+      "channel": "https://twitch.tv/slakun10",
+      "socialNetworks": [
+        "https://www.twitch.tv/slakun10"
+      ],
+      "players": [
+        {
+          "id": "kunisports-23",
+          "dorsalName": "Coro",
+          "fullName": "Ferran Corominas",
+          "role": "jugador 11",
+          "image": "kunisports-coro.webp",
+          "stats": {}
+        },
+        {
+          "id": "kunisports-11",
+          "dorsalName": "Torrentbó",
+          "fullName": "Carlos Torrentbó",
+          "role": "Delantero",
+          "image": "kunisports-torrentb.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 59,
+            "shooting": 73,
+            "passing": 76,
+            "talent": 75,
+            "defense": 72,
+            "score": 71
+          }
+        },
+        {
+          "id": "kunisports-1",
+          "dorsalName": "Víctor",
+          "fullName": "Victor Cócera",
+          "role": "Portero",
+          "image": "kunisports-vctor.webp",
+          "stats": {
+            "reflexes": 83,
+            "saves": 92,
+            "kickoff": 86,
+            "stretch": 87,
+            "score": 87
+          }
+        },
+        {
+          "id": "kunisports-4",
+          "dorsalName": "Guerrero",
+          "fullName": "Marcos Guerrero",
+          "role": "Defensa",
+          "image": "kunisports-guerrero.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 55,
+            "shooting": 82,
+            "passing": 77,
+            "talent": 83,
+            "defense": 83,
+            "score": 75
+          }
+        },
+        {
+          "id": "kunisports-8",
+          "dorsalName": "Joan Inés",
+          "fullName": "Joan Inés",
+          "role": "Medio",
+          "image": "kunisports-joan-ins.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 60,
+            "shooting": 78,
+            "passing": 64,
+            "talent": 64,
+            "defense": 63,
+            "score": 67
+          }
+        },
+        {
+          "id": "kunisports-13",
+          "dorsalName": "Rode",
+          "fullName": "Sergio Ródenas",
+          "role": "Portero",
+          "image": "kunisports-rode.webp",
+          "stats": {
+            "reflexes": 81,
+            "saves": 84,
+            "kickoff": 74,
+            "stretch": 76,
+            "score": 79
+          }
+        },
+        {
+          "id": "kunisports-5",
+          "dorsalName": "Ruggeri",
+          "fullName": "Flavio Ruggeri",
+          "role": "Defensa",
+          "image": "kunisports-ruggeri.webp",
+          "stats": {
+            "speed": 70,
+            "physique": 56,
+            "shooting": 68,
+            "passing": 68,
+            "talent": 81,
+            "defense": 85,
+            "score": 71
+          }
+        },
+        {
+          "id": "kunisports-6",
+          "dorsalName": "Nacho",
+          "fullName": "Nacho Jordà",
+          "role": "Defensa",
+          "image": "kunisports-nacho.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 51,
+            "shooting": 70,
+            "passing": 79,
+            "talent": 64,
+            "defense": 64,
+            "score": 67
+          }
+        },
+        {
+          "id": "kunisports-9",
+          "dorsalName": "Hidalgo",
+          "fullName": "Victor Hidalgo",
+          "role": "Delantero",
+          "image": "kunisports-hidalgo.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 56,
+            "shooting": 71,
+            "passing": 65,
+            "talent": 68,
+            "defense": 74,
+            "score": 68
+          }
+        },
+        {
+          "id": "kunisports-7",
+          "dorsalName": "Lluc",
+          "fullName": "Lluc Riera",
+          "role": "Delantero",
+          "image": "kunisports-lluc.webp",
+          "stats": {
+            "speed": 69,
+            "physique": 57,
+            "shooting": 61,
+            "passing": 67,
+            "talent": 78,
+            "defense": 77,
+            "score": 68
+          }
+        },
+        {
+          "id": "kunisports-3",
+          "dorsalName": "Miki",
+          "fullName": "Miquel Fernández",
+          "role": "Defensa",
+          "image": "kunisports-miki.webp",
+          "stats": {
+            "speed": 70,
+            "physique": 53,
+            "shooting": 86,
+            "passing": 58,
+            "talent": 55,
+            "defense": 69,
+            "score": 65
+          }
+        }
+      ],
+      "coach": "Martín Posse",
+      "shortName": "KNS",
+      "coachInfo": {
+        "name": "Martín Posse",
+        "image": "martn-posse.webp"
+      },
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/kun-aguero.png",
+        "teamId": "kunisports"
+      }
+    }
+  },
+  {
     "wins": 3,
-    "loses": 3,
-    "scoredGoals": 18,
-    "concededGoals": 17,
-    "yellowCards": 0,
+    "loses": 4,
+    "scoredGoals": 22,
+    "concededGoals": 15,
+    "yellowCards": 7,
+    "redCards": 0,
+    "team": {
+      "color": "#49b2ad",
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/el-barrio.svg",
+      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/el-barrio-inverse.svg",
+      "url": "https://kingsleague.pro/team/el-barrio/",
+      "channel": "https://twitch.tv/1k",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": [
+        {
+          "id": "el-barrio-1",
+          "dorsalName": "José Juan",
+          "fullName": "José Juan Figueiras",
+          "role": "jugador 11",
+          "image": "el-barrio-jos-juan.webp",
+          "stats": {}
+        },
+        {
+          "id": "el-barrio-10",
+          "dorsalName": "Jacobo",
+          "fullName": "Jacobo Fernández",
+          "role": "Delantero",
+          "image": "el-barrio-jacobo.webp",
+          "stats": {
+            "speed": 86,
+            "physique": 68,
+            "shooting": 84,
+            "passing": 81,
+            "talent": 84,
+            "defense": 67,
+            "score": 78
+          }
+        },
+        {
+          "id": "el-barrio-6",
+          "dorsalName": "Mase",
+          "fullName": "Aleix Massegú",
+          "role": "Defensa",
+          "image": "el-barrio-mase.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 76,
+            "shooting": 78,
+            "passing": 83,
+            "talent": 74,
+            "defense": 79,
+            "score": 77
+          }
+        },
+        {
+          "id": "el-barrio-9",
+          "dorsalName": "Beguer",
+          "fullName": "Pablo Beguer",
+          "role": "Delantero",
+          "image": "el-barrio-beguer.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 57,
+            "shooting": 84,
+            "passing": 66,
+            "talent": 86,
+            "defense": 71,
+            "score": 73
+          }
+        },
+        {
+          "id": "el-barrio-14",
+          "dorsalName": "Ros",
+          "fullName": "Jordi Ros",
+          "role": "Medio",
+          "image": "el-barrio-ros.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 78,
+            "shooting": 86,
+            "passing": 75,
+            "talent": 83,
+            "defense": 80,
+            "score": 79
+          }
+        },
+        {
+          "id": "el-barrio-8",
+          "dorsalName": "Ubón",
+          "fullName": "Cristian Ubón",
+          "role": "Medio",
+          "image": "el-barrio-ubn.webp",
+          "stats": {
+            "speed": 69,
+            "physique": 52,
+            "shooting": 78,
+            "passing": 73,
+            "talent": 81,
+            "defense": 85,
+            "score": 73
+          }
+        },
+        {
+          "id": "el-barrio-19",
+          "dorsalName": "Pau ZZ",
+          "fullName": "Pau Ruiz",
+          "role": "Defensa",
+          "image": "el-barrio-pau-zz.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 56,
+            "shooting": 76,
+            "passing": 68,
+            "talent": 74,
+            "defense": 76,
+            "score": 70
+          }
+        },
+        {
+          "id": "el-barrio-23",
+          "dorsalName": "Olae",
+          "fullName": "Xavi Olaechea",
+          "role": "Delantero",
+          "image": "el-barrio-olae.webp",
+          "stats": {
+            "speed": 81,
+            "physique": 70,
+            "shooting": 75,
+            "passing": 77,
+            "talent": 80,
+            "defense": 67,
+            "score": 75
+          }
+        },
+        {
+          "id": "el-barrio-11",
+          "dorsalName": "O. Boada",
+          "fullName": "Oriol Boada",
+          "role": "Delantero",
+          "image": "el-barrio-o-boada.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 53,
+            "shooting": 80,
+            "passing": 63,
+            "talent": 79,
+            "defense": 73,
+            "score": 70
+          }
+        },
+        {
+          "id": "el-barrio-7",
+          "dorsalName": "Baranera",
+          "fullName": "Victor Baranera",
+          "role": "Medio",
+          "image": "el-barrio-baranera.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 60,
+            "shooting": 62,
+            "passing": 69,
+            "talent": 74,
+            "defense": 68,
+            "score": 68
+          }
+        },
+        {
+          "id": "el-barrio-12",
+          "dorsalName": "Capilla",
+          "fullName": "Javier Capilla",
+          "role": "Medio",
+          "image": "el-barrio-capilla.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 40,
+            "shooting": 78,
+            "passing": 70,
+            "talent": 77,
+            "defense": 78,
+            "score": 69
+          }
+        }
+      ],
+      "coach": "Juan Arroita",
+      "shortName": "RDB",
+      "coachInfo": {
+        "name": "Juan Arroita",
+        "image": "juan-arroita.webp"
+      },
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/adri-contreras.png",
+        "teamId": "el-barrio"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "loses": 4,
+    "scoredGoals": 20,
+    "concededGoals": 22,
+    "yellowCards": -2,
     "redCards": 0,
     "team": {
       "id": "1k",
@@ -999,10 +1204,10 @@
   },
   {
     "wins": 3,
-    "loses": 3,
-    "scoredGoals": 17,
-    "concededGoals": 18,
-    "yellowCards": 1,
+    "loses": 4,
+    "scoredGoals": 19,
+    "concededGoals": 21,
+    "yellowCards": -2,
     "redCards": 0,
     "team": {
       "id": "aniquiladores-fc",
@@ -1197,614 +1402,10 @@
   },
   {
     "wins": 3,
-    "loses": 3,
-    "scoredGoals": 14,
-    "concededGoals": 16,
-    "yellowCards": 3,
-    "redCards": 0,
-    "team": {
-      "color": "#979797",
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/xbuyer.svg",
-      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/xbuyer-inverse.svg",
-      "url": "https://kingsleague.pro/team/xbuyer-team/",
-      "channel": "https://www.youtube.com/xbuyer",
-      "socialNetworks": [
-        "https://www.youtube.com/xbuyer"
-      ],
-      "players": [
-        {
-          "id": "xbuyer-team-10",
-          "dorsalName": "C. Castro",
-          "fullName": "Carlos Castro",
-          "role": "jugador 11",
-          "image": "xbuyer-team-c-castro.webp",
-          "stats": {}
-        },
-        {
-          "id": "xbuyer-team-13",
-          "dorsalName": "Capi",
-          "fullName": "Adrià Gutiérrez",
-          "role": "Portero",
-          "image": "xbuyer-team-capi.webp",
-          "stats": {
-            "reflexes": 82,
-            "saves": 74,
-            "kickoff": 75,
-            "stretch": 84,
-            "score": 79
-          }
-        },
-        {
-          "id": "xbuyer-team-9",
-          "dorsalName": "Poch",
-          "fullName": "Joan Poch",
-          "role": "Delantero",
-          "image": "xbuyer-team-poch.webp",
-          "stats": {
-            "speed": 68,
-            "physique": 53,
-            "shooting": 84,
-            "passing": 79,
-            "talent": 79,
-            "defense": 73,
-            "score": 73
-          }
-        },
-        {
-          "id": "xbuyer-team-20",
-          "dorsalName": "Iñaki",
-          "fullName": "Iñaki Villalba",
-          "role": "Medio",
-          "image": "xbuyer-team-iaki.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 64,
-            "shooting": 79,
-            "passing": 75,
-            "talent": 70,
-            "defense": 70,
-            "score": 72
-          }
-        },
-        {
-          "id": "xbuyer-team-5",
-          "dorsalName": "Dani",
-          "fullName": "Daniel Santiago",
-          "role": "Defensa",
-          "image": "xbuyer-team-dani.webp",
-          "stats": {
-            "speed": 64,
-            "physique": 69,
-            "shooting": 79,
-            "passing": 55,
-            "talent": 75,
-            "defense": 83,
-            "score": 71
-          }
-        },
-        {
-          "id": "xbuyer-team-32",
-          "dorsalName": "Granero",
-          "fullName": "Marc Granero",
-          "role": "Delantero",
-          "image": "xbuyer-team-granero.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 62,
-            "shooting": 70,
-            "passing": 65,
-            "talent": 56,
-            "defense": 72,
-            "score": 66
-          }
-        },
-        {
-          "id": "xbuyer-team-11",
-          "dorsalName": "Goran",
-          "fullName": "Goran Ehsan",
-          "role": "Medio",
-          "image": "xbuyer-team-goran.webp",
-          "stats": {
-            "speed": 92,
-            "physique": 61,
-            "shooting": 72,
-            "passing": 51,
-            "talent": 71,
-            "defense": 60,
-            "score": 68
-          }
-        },
-        {
-          "id": "xbuyer-team-3",
-          "dorsalName": "Bañuls",
-          "fullName": "Joel Bañuls",
-          "role": "Defensa",
-          "image": "xbuyer-team-bauls.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 58,
-            "shooting": 81,
-            "passing": 76,
-            "talent": 76,
-            "defense": 80,
-            "score": 74
-          }
-        },
-        {
-          "id": "xbuyer-team-7",
-          "dorsalName": "Franc",
-          "fullName": "Franc Cortés",
-          "role": "Medio",
-          "image": "xbuyer-team-franc.webp",
-          "stats": {
-            "speed": 64,
-            "physique": 46,
-            "shooting": 77,
-            "passing": 87,
-            "talent": 81,
-            "defense": 74,
-            "score": 72
-          }
-        },
-        {
-          "id": "xbuyer-team-21",
-          "dorsalName": "B. Sierra",
-          "fullName": "Benjamín Sierra",
-          "role": "Delantero",
-          "image": "xbuyer-team-b-sierra.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 66,
-            "shooting": 66,
-            "passing": 77,
-            "talent": 77,
-            "defense": 75,
-            "score": 72
-          }
-        },
-        {
-          "id": "xbuyer-team-1",
-          "dorsalName": "Sep",
-          "fullName": "Josep Corderas",
-          "role": "Portero",
-          "image": "xbuyer-team-sep.webp",
-          "stats": {
-            "reflexes": 60,
-            "saves": 74,
-            "kickoff": 60,
-            "stretch": 60,
-            "score": 64
-          }
-        }
-      ],
-      "coach": "Víctor González",
-      "shortName": "XBU",
-      "coachInfo": {
-        "name": "Victor González",
-        "image": "victor-gonzlez.webp"
-      },
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/hnos-buyer.png",
-        "teamId": "xbuyer-team"
-      }
-    }
-  },
-  {
-    "wins": 3,
-    "loses": 3,
+    "loses": 4,
     "scoredGoals": 20,
-    "concededGoals": 25,
-    "yellowCards": 2,
-    "redCards": 1,
-    "team": {
-      "color": "#31585a",
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/los-troncos.svg",
-      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/los-troncos-inverse.svg",
-      "url": "https://kingsleague.pro/team/los-troncos-fc/",
-      "channel": "https://twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ],
-      "players": [
-        {
-          "id": "los-troncos-fc-21",
-          "dorsalName": "C. Planas «Chopo»",
-          "fullName": "Carles Planas",
-          "role": "jugador 11",
-          "image": "los-troncos-fc-c-planas-chopo.webp",
-          "stats": {}
-        },
-        {
-          "id": "los-troncos-fc-9",
-          "dorsalName": "E. Álvaro «Roble»",
-          "fullName": "Edgar Álvaro",
-          "role": "Delantero",
-          "image": "los-troncos-fc-e-alvaro-roble.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 82,
-            "shooting": 81,
-            "passing": 55,
-            "talent": 85,
-            "defense": 70,
-            "score": 74
-          }
-        },
-        {
-          "id": "los-troncos-fc-13",
-          "dorsalName": "Lechuga",
-          "fullName": "Pol Lechuga",
-          "role": "Portero",
-          "image": "los-troncos-fc-lechuga.webp",
-          "stats": {
-            "reflexes": 81,
-            "saves": 84,
-            "kickoff": 70,
-            "stretch": 60,
-            "score": 74
-          }
-        },
-        {
-          "id": "los-troncos-fc-4",
-          "dorsalName": "D. Soriano «Olivo»",
-          "fullName": "David Soriano",
-          "role": "Defensa",
-          "image": "los-troncos-fc-d-soriano-olivo.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 70,
-            "shooting": 80,
-            "passing": 78,
-            "talent": 56,
-            "defense": 57,
-            "score": 69
-          }
-        },
-        {
-          "id": "los-troncos-fc-8",
-          "dorsalName": "S. Sánchez «Drago»",
-          "fullName": "Sergio Sánchez",
-          "role": "Medio",
-          "image": "los-troncos-fc-s-sanchez-drago.webp",
-          "stats": {
-            "speed": 65,
-            "physique": 43,
-            "shooting": 75,
-            "passing": 79,
-            "talent": 82,
-            "defense": 84,
-            "score": 71
-          }
-        },
-        {
-          "id": "los-troncos-fc-5",
-          "dorsalName": "Noel L. «Ahuehuete»",
-          "fullName": "Noel López",
-          "role": "Medio",
-          "image": "los-troncos-fc-noel-l-ahuehuete.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 68,
-            "shooting": 79,
-            "passing": 70,
-            "talent": 89,
-            "defense": 67,
-            "score": 74
-          }
-        },
-        {
-          "id": "los-troncos-fc-10",
-          "dorsalName": "X. Molas «Mimosa»",
-          "fullName": "Xavier Molas",
-          "role": "Medio",
-          "image": "los-troncos-fc-x-molas-mimosa.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 72,
-            "shooting": 76,
-            "passing": 84,
-            "talent": 81,
-            "defense": 78,
-            "score": 77
-          }
-        },
-        {
-          "id": "los-troncos-fc-7",
-          "dorsalName": "R. Martínez «Bonsai»",
-          "fullName": "Raúl Martínez",
-          "role": "Delantero",
-          "image": "los-troncos-fc-r-martinez-bonsai.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 50,
-            "shooting": 70,
-            "passing": 76,
-            "talent": 84,
-            "defense": 73,
-            "score": 71
-          }
-        },
-        {
-          "id": "los-troncos-fc-11",
-          "dorsalName": "Dorkis P. «Mango»",
-          "fullName": "Dorkis Pérez",
-          "role": "Delantero",
-          "image": "los-troncos-fc-dorkis-p-mango.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 54,
-            "shooting": 78,
-            "passing": 54,
-            "talent": 71,
-            "defense": 72,
-            "score": 67
-          }
-        },
-        {
-          "id": "los-troncos-fc-6",
-          "dorsalName": "I. Nuevo «Ficus»",
-          "fullName": "Iván Nuevo",
-          "role": "Medio",
-          "image": "los-troncos-fc-i-nuevo-ficus.webp",
-          "stats": {
-            "speed": 70,
-            "physique": 63,
-            "shooting": 80,
-            "passing": 61,
-            "talent": 83,
-            "defense": 73,
-            "score": 72
-          }
-        },
-        {
-          "id": "los-troncos-fc-1",
-          "dorsalName": "M. Arús «Pino»",
-          "fullName": "Marc Arús",
-          "role": "Portero",
-          "image": "los-troncos-fc-m-arus-pino.webp",
-          "stats": {
-            "reflexes": 62,
-            "saves": 70,
-            "kickoff": 60,
-            "stretch": 73,
-            "score": 66
-          }
-        }
-      ],
-      "coach": "Pol Font",
-      "shortName": "TFC",
-      "coachInfo": {
-        "name": "Pol Font",
-        "image": "pol-font.webp"
-      },
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/perxitaa.png",
-        "teamId": "los-troncos-fc"
-      }
-    }
-  },
-  {
-    "wins": 2,
-    "loses": 4,
-    "scoredGoals": 16,
-    "concededGoals": 13,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
-      "color": "#49b2ad",
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/el-barrio.svg",
-      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/el-barrio-inverse.svg",
-      "url": "https://kingsleague.pro/team/el-barrio/",
-      "channel": "https://twitch.tv/1k",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": [
-        {
-          "id": "el-barrio-1",
-          "dorsalName": "José Juan",
-          "fullName": "José Juan Figueiras",
-          "role": "jugador 11",
-          "image": "el-barrio-jos-juan.webp",
-          "stats": {}
-        },
-        {
-          "id": "el-barrio-10",
-          "dorsalName": "Jacobo",
-          "fullName": "Jacobo Fernández",
-          "role": "Delantero",
-          "image": "el-barrio-jacobo.webp",
-          "stats": {
-            "speed": 86,
-            "physique": 68,
-            "shooting": 84,
-            "passing": 81,
-            "talent": 84,
-            "defense": 67,
-            "score": 78
-          }
-        },
-        {
-          "id": "el-barrio-6",
-          "dorsalName": "Mase",
-          "fullName": "Aleix Massegú",
-          "role": "Defensa",
-          "image": "el-barrio-mase.webp",
-          "stats": {
-            "speed": 71,
-            "physique": 76,
-            "shooting": 78,
-            "passing": 83,
-            "talent": 74,
-            "defense": 79,
-            "score": 77
-          }
-        },
-        {
-          "id": "el-barrio-9",
-          "dorsalName": "Beguer",
-          "fullName": "Pablo Beguer",
-          "role": "Delantero",
-          "image": "el-barrio-beguer.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 57,
-            "shooting": 84,
-            "passing": 66,
-            "talent": 86,
-            "defense": 71,
-            "score": 73
-          }
-        },
-        {
-          "id": "el-barrio-14",
-          "dorsalName": "Ros",
-          "fullName": "Jordi Ros",
-          "role": "Medio",
-          "image": "el-barrio-ros.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 78,
-            "shooting": 86,
-            "passing": 75,
-            "talent": 83,
-            "defense": 80,
-            "score": 79
-          }
-        },
-        {
-          "id": "el-barrio-8",
-          "dorsalName": "Ubón",
-          "fullName": "Cristian Ubón",
-          "role": "Medio",
-          "image": "el-barrio-ubn.webp",
-          "stats": {
-            "speed": 69,
-            "physique": 52,
-            "shooting": 78,
-            "passing": 73,
-            "talent": 81,
-            "defense": 85,
-            "score": 73
-          }
-        },
-        {
-          "id": "el-barrio-19",
-          "dorsalName": "Pau ZZ",
-          "fullName": "Pau Ruiz",
-          "role": "Defensa",
-          "image": "el-barrio-pau-zz.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 56,
-            "shooting": 76,
-            "passing": 68,
-            "talent": 74,
-            "defense": 76,
-            "score": 70
-          }
-        },
-        {
-          "id": "el-barrio-23",
-          "dorsalName": "Olae",
-          "fullName": "Xavi Olaechea",
-          "role": "Delantero",
-          "image": "el-barrio-olae.webp",
-          "stats": {
-            "speed": 81,
-            "physique": 70,
-            "shooting": 75,
-            "passing": 77,
-            "talent": 80,
-            "defense": 67,
-            "score": 75
-          }
-        },
-        {
-          "id": "el-barrio-11",
-          "dorsalName": "O. Boada",
-          "fullName": "Oriol Boada",
-          "role": "Delantero",
-          "image": "el-barrio-o-boada.webp",
-          "stats": {
-            "speed": 72,
-            "physique": 53,
-            "shooting": 80,
-            "passing": 63,
-            "talent": 79,
-            "defense": 73,
-            "score": 70
-          }
-        },
-        {
-          "id": "el-barrio-7",
-          "dorsalName": "Baranera",
-          "fullName": "Victor Baranera",
-          "role": "Medio",
-          "image": "el-barrio-baranera.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 60,
-            "shooting": 62,
-            "passing": 69,
-            "talent": 74,
-            "defense": 68,
-            "score": 68
-          }
-        },
-        {
-          "id": "el-barrio-12",
-          "dorsalName": "Capilla",
-          "fullName": "Javier Capilla",
-          "role": "Medio",
-          "image": "el-barrio-capilla.webp",
-          "stats": {
-            "speed": 73,
-            "physique": 40,
-            "shooting": 78,
-            "passing": 70,
-            "talent": 77,
-            "defense": 78,
-            "score": 69
-          }
-        }
-      ],
-      "coach": "Juan Arroita",
-      "shortName": "RDB",
-      "coachInfo": {
-        "name": "Juan Arroita",
-        "image": "juan-arroita.webp"
-      },
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/adri-contreras.png",
-        "teamId": "el-barrio"
-      }
-    }
-  },
-  {
-    "wins": 2,
-    "loses": 4,
-    "scoredGoals": 17,
-    "concededGoals": 21,
-    "yellowCards": 0,
+    "concededGoals": 23,
+    "yellowCards": -3,
     "redCards": 0,
     "team": {
       "color": "#f6ab34",
@@ -2003,11 +1604,410 @@
     }
   },
   {
-    "wins": 1,
+    "wins": 3,
+    "loses": 4,
+    "scoredGoals": 16,
+    "concededGoals": 21,
+    "yellowCards": -5,
+    "redCards": 0,
+    "team": {
+      "color": "#979797",
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/xbuyer.svg",
+      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/xbuyer-inverse.svg",
+      "url": "https://kingsleague.pro/team/xbuyer-team/",
+      "channel": "https://www.youtube.com/xbuyer",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ],
+      "players": [
+        {
+          "id": "xbuyer-team-10",
+          "dorsalName": "C. Castro",
+          "fullName": "Carlos Castro",
+          "role": "jugador 11",
+          "image": "xbuyer-team-c-castro.webp",
+          "stats": {}
+        },
+        {
+          "id": "xbuyer-team-13",
+          "dorsalName": "Capi",
+          "fullName": "Adrià Gutiérrez",
+          "role": "Portero",
+          "image": "xbuyer-team-capi.webp",
+          "stats": {
+            "reflexes": 82,
+            "saves": 74,
+            "kickoff": 75,
+            "stretch": 84,
+            "score": 79
+          }
+        },
+        {
+          "id": "xbuyer-team-9",
+          "dorsalName": "Poch",
+          "fullName": "Joan Poch",
+          "role": "Delantero",
+          "image": "xbuyer-team-poch.webp",
+          "stats": {
+            "speed": 68,
+            "physique": 53,
+            "shooting": 84,
+            "passing": 79,
+            "talent": 79,
+            "defense": 73,
+            "score": 73
+          }
+        },
+        {
+          "id": "xbuyer-team-20",
+          "dorsalName": "Iñaki",
+          "fullName": "Iñaki Villalba",
+          "role": "Medio",
+          "image": "xbuyer-team-iaki.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 64,
+            "shooting": 79,
+            "passing": 75,
+            "talent": 70,
+            "defense": 70,
+            "score": 72
+          }
+        },
+        {
+          "id": "xbuyer-team-5",
+          "dorsalName": "Dani",
+          "fullName": "Daniel Santiago",
+          "role": "Defensa",
+          "image": "xbuyer-team-dani.webp",
+          "stats": {
+            "speed": 64,
+            "physique": 69,
+            "shooting": 79,
+            "passing": 55,
+            "talent": 75,
+            "defense": 83,
+            "score": 71
+          }
+        },
+        {
+          "id": "xbuyer-team-32",
+          "dorsalName": "Granero",
+          "fullName": "Marc Granero",
+          "role": "Delantero",
+          "image": "xbuyer-team-granero.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 62,
+            "shooting": 70,
+            "passing": 65,
+            "talent": 56,
+            "defense": 72,
+            "score": 66
+          }
+        },
+        {
+          "id": "xbuyer-team-11",
+          "dorsalName": "Goran",
+          "fullName": "Goran Ehsan",
+          "role": "Medio",
+          "image": "xbuyer-team-goran.webp",
+          "stats": {
+            "speed": 92,
+            "physique": 61,
+            "shooting": 72,
+            "passing": 51,
+            "talent": 71,
+            "defense": 60,
+            "score": 68
+          }
+        },
+        {
+          "id": "xbuyer-team-3",
+          "dorsalName": "Bañuls",
+          "fullName": "Joel Bañuls",
+          "role": "Defensa",
+          "image": "xbuyer-team-bauls.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 58,
+            "shooting": 81,
+            "passing": 76,
+            "talent": 76,
+            "defense": 80,
+            "score": 74
+          }
+        },
+        {
+          "id": "xbuyer-team-7",
+          "dorsalName": "Franc",
+          "fullName": "Franc Cortés",
+          "role": "Medio",
+          "image": "xbuyer-team-franc.webp",
+          "stats": {
+            "speed": 64,
+            "physique": 46,
+            "shooting": 77,
+            "passing": 87,
+            "talent": 81,
+            "defense": 74,
+            "score": 72
+          }
+        },
+        {
+          "id": "xbuyer-team-21",
+          "dorsalName": "B. Sierra",
+          "fullName": "Benjamín Sierra",
+          "role": "Delantero",
+          "image": "xbuyer-team-b-sierra.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 66,
+            "shooting": 66,
+            "passing": 77,
+            "talent": 77,
+            "defense": 75,
+            "score": 72
+          }
+        },
+        {
+          "id": "xbuyer-team-1",
+          "dorsalName": "Sep",
+          "fullName": "Josep Corderas",
+          "role": "Portero",
+          "image": "xbuyer-team-sep.webp",
+          "stats": {
+            "reflexes": 60,
+            "saves": 74,
+            "kickoff": 60,
+            "stretch": 60,
+            "score": 64
+          }
+        }
+      ],
+      "coach": "Víctor González",
+      "shortName": "XBU",
+      "coachInfo": {
+        "name": "Victor González",
+        "image": "victor-gonzlez.webp"
+      },
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/hnos-buyer.png",
+        "teamId": "xbuyer-team"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "loses": 4,
+    "scoredGoals": 20,
+    "concededGoals": 26,
+    "yellowCards": -6,
+    "redCards": 0,
+    "team": {
+      "color": "#31585a",
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/los-troncos.svg",
+      "imageWhite": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/logos/los-troncos-inverse.svg",
+      "url": "https://kingsleague.pro/team/los-troncos-fc/",
+      "channel": "https://twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ],
+      "players": [
+        {
+          "id": "los-troncos-fc-21",
+          "dorsalName": "C. Planas «Chopo»",
+          "fullName": "Carles Planas",
+          "role": "jugador 11",
+          "image": "los-troncos-fc-c-planas-chopo.webp",
+          "stats": {}
+        },
+        {
+          "id": "los-troncos-fc-9",
+          "dorsalName": "E. Álvaro «Roble»",
+          "fullName": "Edgar Álvaro",
+          "role": "Delantero",
+          "image": "los-troncos-fc-e-alvaro-roble.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 82,
+            "shooting": 81,
+            "passing": 55,
+            "talent": 85,
+            "defense": 70,
+            "score": 74
+          }
+        },
+        {
+          "id": "los-troncos-fc-13",
+          "dorsalName": "Lechuga",
+          "fullName": "Pol Lechuga",
+          "role": "Portero",
+          "image": "los-troncos-fc-lechuga.webp",
+          "stats": {
+            "reflexes": 81,
+            "saves": 84,
+            "kickoff": 70,
+            "stretch": 60,
+            "score": 74
+          }
+        },
+        {
+          "id": "los-troncos-fc-4",
+          "dorsalName": "D. Soriano «Olivo»",
+          "fullName": "David Soriano",
+          "role": "Defensa",
+          "image": "los-troncos-fc-d-soriano-olivo.webp",
+          "stats": {
+            "speed": 71,
+            "physique": 70,
+            "shooting": 80,
+            "passing": 78,
+            "talent": 56,
+            "defense": 57,
+            "score": 69
+          }
+        },
+        {
+          "id": "los-troncos-fc-8",
+          "dorsalName": "S. Sánchez «Drago»",
+          "fullName": "Sergio Sánchez",
+          "role": "Medio",
+          "image": "los-troncos-fc-s-sanchez-drago.webp",
+          "stats": {
+            "speed": 65,
+            "physique": 43,
+            "shooting": 75,
+            "passing": 79,
+            "talent": 82,
+            "defense": 84,
+            "score": 71
+          }
+        },
+        {
+          "id": "los-troncos-fc-5",
+          "dorsalName": "Noel L. «Ahuehuete»",
+          "fullName": "Noel López",
+          "role": "Medio",
+          "image": "los-troncos-fc-noel-l-ahuehuete.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 68,
+            "shooting": 79,
+            "passing": 70,
+            "talent": 89,
+            "defense": 67,
+            "score": 74
+          }
+        },
+        {
+          "id": "los-troncos-fc-10",
+          "dorsalName": "X. Molas «Mimosa»",
+          "fullName": "Xavier Molas",
+          "role": "Medio",
+          "image": "los-troncos-fc-x-molas-mimosa.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 72,
+            "shooting": 76,
+            "passing": 84,
+            "talent": 81,
+            "defense": 78,
+            "score": 77
+          }
+        },
+        {
+          "id": "los-troncos-fc-7",
+          "dorsalName": "R. Martínez «Bonsai»",
+          "fullName": "Raúl Martínez",
+          "role": "Delantero",
+          "image": "los-troncos-fc-r-martinez-bonsai.webp",
+          "stats": {
+            "speed": 73,
+            "physique": 50,
+            "shooting": 70,
+            "passing": 76,
+            "talent": 84,
+            "defense": 73,
+            "score": 71
+          }
+        },
+        {
+          "id": "los-troncos-fc-11",
+          "dorsalName": "Dorkis P. «Mango»",
+          "fullName": "Dorkis Pérez",
+          "role": "Delantero",
+          "image": "los-troncos-fc-dorkis-p-mango.webp",
+          "stats": {
+            "speed": 72,
+            "physique": 54,
+            "shooting": 78,
+            "passing": 54,
+            "talent": 71,
+            "defense": 72,
+            "score": 67
+          }
+        },
+        {
+          "id": "los-troncos-fc-6",
+          "dorsalName": "I. Nuevo «Ficus»",
+          "fullName": "Iván Nuevo",
+          "role": "Medio",
+          "image": "los-troncos-fc-i-nuevo-ficus.webp",
+          "stats": {
+            "speed": 70,
+            "physique": 63,
+            "shooting": 80,
+            "passing": 61,
+            "talent": 83,
+            "defense": 73,
+            "score": 72
+          }
+        },
+        {
+          "id": "los-troncos-fc-1",
+          "dorsalName": "M. Arús «Pino»",
+          "fullName": "Marc Arús",
+          "role": "Portero",
+          "image": "los-troncos-fc-m-arus-pino.webp",
+          "stats": {
+            "reflexes": 62,
+            "saves": 70,
+            "kickoff": 60,
+            "stretch": 73,
+            "score": 66
+          }
+        }
+      ],
+      "coach": "Pol Font",
+      "shortName": "TFC",
+      "coachInfo": {
+        "name": "Pol Font",
+        "image": "pol-font.webp"
+      },
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api-abrahamsm.abrahamserrano96.workers.dev/static/presidents/perxitaa.png",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
+    "wins": 2,
     "loses": 5,
-    "scoredGoals": 14,
-    "concededGoals": 16,
-    "yellowCards": 4,
+    "scoredGoals": 19,
+    "concededGoals": 18,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "color": "#fff68d",
@@ -2205,10 +2205,10 @@
   },
   {
     "wins": 0,
-    "loses": 6,
-    "scoredGoals": 11,
-    "concededGoals": 24,
-    "yellowCards": 2,
+    "loses": 7,
+    "scoredGoals": 14,
+    "concededGoals": 28,
+    "yellowCards": -14,
     "redCards": 0,
     "team": {
       "id": "jijantes-fc",
